@@ -56,3 +56,18 @@ fly m update 328756e9f52758 \
   --env RELEASE_LABEL=v62-3-ga38cb23a \
   --image registry.fly.io/$FLY_APP_NAME:locksmith-api.v62-3-ga38cb23a
 ```
+
+### Sometimes a machine will get stuck and you'll need to outright destroy it
+
+`fly m destroy MACHINE_ID`
+
+Add `--force` if the machine is stubborn and won’t stop.
+
+and then use `fly scale count` to scale back up to the desired machine count. Search fly scale count in the internal slack and you'll see example usage.
+
+
+
+\
+\
+
+
