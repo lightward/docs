@@ -4,7 +4,7 @@ description: If you don't know what to do, start here.
 
 # 👉 Start here
 
-1. [lightward.ai](https://lightward.ai/)\
+1. [lightward.com](https://lightward.com/)\
    [lightward.guide](context.md)
    * Look for your answers here first.
    * When you've discovered answers to record, put them here, in public, [if you can](publishing-erring-public.md).
@@ -26,4 +26,4 @@ If we're doing it right, I'm pretty sure the territory we've already seen and th
 
 > This originally started out as an attempt to make a flow-chart for use while doing Locksmith customer support. As I worked on it, it became very very obvious that the patterns in the flowchart were common to how Lightward itself works.
 >
-> \-Isaac
+> -Isaac

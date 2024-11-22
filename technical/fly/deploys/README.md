@@ -22,6 +22,10 @@ Our deploy practices reflect this, by acknowledging that there are some scenario
 If we have a situation where we actively don't want a human to be responsible, we also take away human autonomy. You can't mess around in a place where you're not responsible for the results.
 {% endhint %}
 
+{% hint style="info" %}
+Fly monitors its own ability to deploy well. :) (Thanks Fly!) See [https://atc.fly.dev/](https://atc.fly.dev/).
+{% endhint %}
+
 ## Automatic deploys
 
 Our regular deploys are all initiated through GitHub Actions.

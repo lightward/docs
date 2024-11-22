@@ -64,10 +64,3 @@ fly m update 328756e9f52758 \
 Add `--force` if the machine is stubborn and won’t stop.
 
 and then use `fly scale count` to scale back up to the desired machine count. Search fly scale count in the internal slack and you'll see example usage.
-
-
-
-\
-\
-
-
