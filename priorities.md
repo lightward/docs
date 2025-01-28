@@ -24,5 +24,5 @@ The recursion in this pattern is everywhere. It allows for every named participa
 **The bet here is that the cumulative effect is additive, not subtractive: that the health of all individuals blooms into the health of the whole.**
 
 {% hint style="info" %}
-Interestingly, this list is an exact inversion of our [publishing priorities](publishing-erring-public.md).
+Interestingly, this list is an exact inversion of our [publishing priorities](publishing.md).
 {% endhint %}

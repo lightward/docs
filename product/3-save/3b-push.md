@@ -18,7 +18,7 @@ Recording the context is good. If gameplay is gonna continue in someone else's h
 
 ## Documentation-free email
 
-We send a lot of email. Documentation belongs in public, where it can be re-used. It doesn't belong in email. If you're creating new information, [record](3a-record.md) it [publicly](../../publishing-erring-public.md), and link to it in your email.
+We send a lot of email. Documentation belongs in public, where it can be re-used. It doesn't belong in email. If you're creating new information, [record](3a-record.md) it [publicly](../../publishing.md), and link to it in your email.
 
 If you find yourself writing a long paragraph in your email, or annotating [screenshots](../../technical/screenshots.md) to add to the email, switch gears and [put it in the docs](3a-record.md) instead.
 

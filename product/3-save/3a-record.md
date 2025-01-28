@@ -14,7 +14,7 @@ layout:
 
 # 3a. Record what's new
 
-Saving your game starts by taking everything out of your head and putting it down as new [passive context](../1-load.md#passive-context) for next time, putting it in [as useful a place as possible](../../publishing-erring-public.md).
+Saving your game starts by taking everything out of your head and putting it down as new [passive context](../1-load.md#passive-context) for next time, putting it in [as useful a place as possible](../../publishing.md).
 
 **Hint: Be generously kind to whoever loads the game next.** That's basically it. It could be you, it could be someone else. Save the game such that it could easily be either. The more kind to the future you are, the better the odds of your (and our) future good health, which in turn improves things for the good health of all across the timeline.
 
@@ -26,7 +26,7 @@ Saving your game starts by taking everything out of your head and putting it dow
 
 ## Do it now
 
-Write the documentation. Update the code. Do whatever it means to take the new knowledge you have and move it _out_ of your head, [putting it somewhere that the world can reach it](../../publishing-erring-public.md).
+Write the documentation. Update the code. Do whatever it means to take the new knowledge you have and move it _out_ of your head, [putting it somewhere that the world can reach it](../../publishing.md).
 
 Do it. Right now, no waiting, with all the facts as they exist right now, even if the fact is that something is incomplete or in progress or never gonna happen.
 
@@ -53,7 +53,7 @@ Run through the list below. If you're still stuck, [ask Isaac](../../ask-isaac.m
   * That's okay! Publish it anyway! The information that we-the-product-authorities have examined this thing and have come up short (or even empty) _is_ useful information to have out there in the world.
   * Publish what you have, with a highlighted "if you need more information, write to team@\[whatever]" info block at the end. That way, you're effectively signing yourself up for push notifications whenever someone needs more than what's there.
 * **If the specifics are sensitive...**
-  * [Figure out exactly how public you can be with it](../../publishing-erring-public.md)
+  * [Figure out exactly how public you can be with it](../../publishing.md)
   * Enable yourself to go _more_ public by generalizing the information (and then generalize it again, if needed) until you get to some public-friendly representation of the thing, no matter how vague it ends up being.
     * As an exercise, really push yourself here - generalize until you have something publishable. Keep generalizing until you either create something publishable, or until you end up with something that's already published. (If you end up with something that's already published, good job! You now have a documentation link to send someone, and your work is done!)
 * **If it involves a change to product code...**

@@ -14,7 +14,7 @@ layout:
 
 # Publishing: Erring public
 
-When you create information (maybe while [playing the product game](the-product-game/)), put the results in as public a place as possible.
+When you create information (maybe while [playing the product game](product/)), put the results in as public a place as possible.
 
 {% hint style="success" %}
 More-public is better than less-public, [unless it's at the expense of health](priorities.md).
