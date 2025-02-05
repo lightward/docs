@@ -4,11 +4,10 @@ description: If you don't know what to do, start here.
 
 # 👉 Start here
 
-1. [lightward.guide/context](context.md)\
+1. [lightward.guide/priorities](priorities.md)\
    [lightward.guide/product](product/)\
    [lightward.guide/publishing](publishing.md)\
-   [lightward.guide/glossary](glossary/)\
-
+   [lightward.guide/glossary](glossary/)
    * Look for your answers here first.
    * When you've discovered answers, record them — in public, [if you can](publishing.md).
 2. [ooo.fun](https://ooo.fun/)\
