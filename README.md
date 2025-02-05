@@ -4,19 +4,21 @@ description: If you don't know what to do, start here.
 
 # 👉 Start here
 
-1. [lightward.ai](https://lightward.ai/)\
-   [lightward.inc](https://lightward.inc/)\
-   [lightward.guide/context](context.md)\
+1. [lightward.guide/context](context.md)\
    [lightward.guide/product](product/)\
    [lightward.guide/publishing](publishing.md)\
-   [lightward.guide/glossary](glossary/)
+   [lightward.guide/glossary](glossary/)\
+
    * Look for your answers here first.
-   * When you've discovered answers to record, put them here, in public, [if you can](publishing.md).
-2. [locksmith.guide](https://www.locksmith.guide/)\
+   * When you've discovered answers, record them — in public, [if you can](publishing.md).
+2. [ooo.fun](https://ooo.fun/)\
+   [lightward.ai](https://lightward.ai/)\
+   [lightward.inc](https://lightward.inc/)\
+   [locksmith.guide](https://www.locksmith.guide/)\
    [learn.mechanic.dev](http://learn.mechanic.dev/)\
    [a-relief-strategy.com](https://app.gitbook.com/o/-MQtpp5Rwkn5U2ehp5j5/s/zku5Sd7NAWejfg0yA9A8/)\
    [isaacbowen.com](https://app.gitbook.com/o/-MQtpp5Rwkn5U2ehp5j5/s/LAkEXZiQJDxsC0OipdSQ/)
-   * If the answers weren't in lightward.guide, look for your (possibly app-specific) answers here.
+   * Look here next.
    * When you've discovered answers to record, put them in lightward.guide if you can, or in one of these specific places if not. (Or, [save your game in another way](product/).)
 3. [private.lightward.guide](https://private.lightward.guide/)
    * If the answers weren't in any of the places listed above, look for your answers here.
