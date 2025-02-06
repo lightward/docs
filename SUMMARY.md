@@ -19,15 +19,6 @@
   * [Concepts](glossary/concepts.md)
   * [Applications](glossary/applications.md)
 
-## Onward
-
-* [lightward.ai](https://lightward.ai/)
-* [lightward.inc](https://lightward.inc/)
-* [locksmith.guide](https://www.locksmith.guide/)
-* [learn.mechanic.dev](https://learn.mechanic.dev/)
-* [private.lightward.guide](https://private.lightward.guide/)
-* [✏️ Edit this space](https://app.gitbook.com/o/-MQtpp5Rwkn5U2ehp5j5/s/mXSRoQkce5GSaD8bsMcF/)
-
 ## Technical
 
 * [README](technical/readme.md)
