@@ -41,18 +41,9 @@ These are the rough edges we've bumped up against, and (when applicable) how we 
     * nb: `--display-config` exists, but that's for something else
   * doesn't include healthchecks
     * `fly checks list -a $app | grep $machine_id`
-* stop, start
-  * doesn't accept multiple Machine IDs; use `&` at the end of each command to run in parallel
 
 ### scale
 
 * count
   * it seems to grab a lease on _all_ Machines at once, even when scoped by `--process-group`, which means `fly scale count` commands can't be run concurrently
     * no workaround
-
-### ssh
-
-* console
-  * doesn't support Machine IDs
-    * `-s` allows choice, but given 500 Machines it's a tossup for time-efficiency
-    * connect to an individual Machine by grabbing its ipv6 address via `fly m status`, then call `fly ssh console -a $APP -A $ADDRESS`
