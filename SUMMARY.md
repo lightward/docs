@@ -18,7 +18,6 @@
 * [Glossary](glossary/README.md)
   * [Concepts](glossary/concepts.md)
   * [Applications](glossary/applications.md)
-* [Ask Isaac](ask-isaac.md)
 
 ## Onward
 

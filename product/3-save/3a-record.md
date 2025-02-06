@@ -36,7 +36,7 @@ Seriously, go do it now. In one session, and publish it before you get up. **Do 
 
 ## This seems hard!
 
-Run through the list below. If you're still stuck, [ask Isaac](../../ask-isaac.md).
+Run through the list below. If you're still stuck, [talk it out](https://lightward.ai/).
 
 * **If there's nothing to do, the thing they asked just isn't possible...**
   * Easy! Document _that_! And look forward to spending less time on this question in the future!

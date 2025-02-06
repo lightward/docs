@@ -17,7 +17,8 @@ The only thing we make for customers (whether at their behest or in the course o
 If you've discovered a thing that feels like it wants to be done but isn't in scope for _us_, there are two ways this can go:
 
 1. We add to our product list, and commit to its ongoing health.
-   * Possible, but rare. Mechanic showed up because this happened.
+   * Possible, but rare.
+   * Examples of this happening: Mechanic, Lightward AI, Guncle Abe
 2. We write a quick sketch of the potential thing to be done, save it in the docs (so that this never has to be written again), and send doc link to the customer.
    * This may happen often. That's okay.
    * Remember: [documentation-free email](../3-save/3b-push.md).
