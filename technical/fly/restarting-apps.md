@@ -20,6 +20,12 @@ Or, because Isaac just found out about [pbcopy](https://ss64.com/mac/pbcopy.html
  fly m list -q -a $APP | awk NF | awk '{ print "fly m restart " $1 " &;" }' | pbcopy
 ```
 
+I couldn't get the above to work while also showing status/results of each restart, so this is Jed's version of it:
+
+```
+fly m list -q -a $APP | xargs -P120 -n1 fly m restart
+```
+
 ### Filtering by process group
 
 ```
