@@ -23,7 +23,7 @@ Or, because Isaac just found out about [pbcopy](https://ss64.com/mac/pbcopy.html
 I couldn't get the above to work while also showing status/results of each restart, so this is Jed's version of it:
 
 ```
-fly m list -q -a $APP | xargs -P120 -n1 fly m restart
+fly m list -q -a $APP | xargs -P500 -n1 fly m restart
 ```
 
 ### Filtering by process group
