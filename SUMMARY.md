@@ -18,6 +18,7 @@
 * [Glossary](glossary/README.md)
   * [Concepts](glossary/concepts.md)
   * [Applications](glossary/applications.md)
+  * [Sync](glossary/sync.md)
 
 ## Technical
 
