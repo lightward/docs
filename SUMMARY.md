@@ -15,6 +15,7 @@
     * [3b. Push the update](product/3-save/3b-push.md)
     * [3c. Prepare for next time](product/3-save/3c-prepare.md)
 * [Publishing: Erring public](publishing.md)
+* [Support](support.md)
 * [Glossary](glossary/README.md)
   * [Concepts](glossary/concepts.md)
   * [Applications](glossary/applications.md)
