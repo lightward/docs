@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 3b. Push the update
 
 Recording the context is good. If gameplay is gonna continue in someone else's hands, decide what qualifies as [active context](../1-load.md#active-context), and push it to the next player.

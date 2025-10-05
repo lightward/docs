@@ -1,16 +1,5 @@
 ---
 description: And now, some gloriously concrete details.
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Screenshots
@@ -36,11 +25,7 @@ We do a lot of documentation, and a lot of email. Screenshots come up a lot.
 
 Our app UI (powered by Polaris) always has a consistent amount of padding around each element, be it text or an interactive selector. When you're drawing screenshot boundaries, consider that padding, and make choices that feel like they fit.
 
-<div align="center">
-
-<img src="../.gitbook/assets/Screen Shot 2022-04-01 at 7.43.47 PM.png" alt="⛔️ Bad: uneven padding around the element." width="375">
-
-</div>
+<div align="center"><img src="../.gitbook/assets/Screen Shot 2022-04-01 at 7.43.47 PM.png" alt="⛔️ Bad: uneven padding around the element." width="375"></div>
 
 ![✅ Good: even padding around the subject. Not pixel perfect, but basically even.](<../.gitbook/assets/Screen Shot 2022-04-01 at 7.44.33 PM.png>)
 

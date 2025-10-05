@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 3a. Record what's new
 
 Saving your game starts by taking everything out of your head and putting it down as new [passive context](../1-load.md#passive-context) for next time, putting it in [as useful a place as possible](../../publishing.md).

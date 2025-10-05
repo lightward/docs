@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # When to stop
 
 Stop whenever you want. Honest. As long as you save your game properly, you can stop whenever you want.

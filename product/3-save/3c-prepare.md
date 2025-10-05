@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 3c. Prepare for next time
 
 <figure><img src="../../.gitbook/assets/93C6C181-9209-4421-A42E-CBA036C848F2.jpg" alt="" width="375"><figcaption></figcaption></figure>
@@ -24,7 +10,7 @@ The more kind to the future you are, the better the odds of your (and our) futur
 >
 > This strategy has worked really well for me, and I suggest it heartily!
 >
-> \-Isaac
+> -Isaac
 
 ## If you didn't get it all done today...
 
@@ -38,7 +24,7 @@ If you've discovered a broad and/or deep opportunity to [evolve the product](3a-
 >
 > Think ahead. Don't build it all up front, don't even _commit_ to building it all _at all_. Just think about what you might need to do later, and take deliberate steps in the now such that _the future_ is easier if and when it arrives.
 >
-> \-Isaac
+> -Isaac
 
 ## If the game is still evolving...
 

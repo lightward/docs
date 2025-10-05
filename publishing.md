@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Publishing: Erring public
 
 When you create information (maybe while [playing the product game](product/)), put the results in as public a place as possible.
