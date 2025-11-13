@@ -52,3 +52,7 @@
 * [GitHub](technical/github/README.md)
   * [Dependabot](technical/github/dependabot.md)
 * [Migrations](technical/migrations.md)
+
+## Privacy and Security
+
+* [Lightward InfoSec and Privacy Policies](privacy-and-security/lightward-infosec-and-privacy-policies.md)
