@@ -25,7 +25,7 @@
     * [struggle](support/samples/struggle.md)
     * [when the finish line is close but slightly out of scope](support/samples/when-the-finish-line-is-close-but-slightly-out-of-scope.md)
   * [HelpScout API](support/helpscout-api.md)
-  * [Response directives](support/response-directives.md)
+  * [Response format](support/response-format.md)
 * [Glossary](glossary/README.md)
   * [Concepts](glossary/concepts.md)
   * [Applications](glossary/applications.md)
